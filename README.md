@@ -1,2 +1,2 @@
 # Probability
-A Gentle Introduction to Proabability
+A Gentle Introduction to Probability
